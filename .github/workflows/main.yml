@@ -188,6 +188,7 @@ jobs:
         # с которым установлено соединение
         #test
         #test2
+        #test3
         script: |
           cd taski
           # Выполняет pull образов с Docker Hub
